@@ -1,0 +1,16 @@
+{
+    "base": "trinke $sip",
+    "fillers": [
+        "$PlayerA erkenne ein Spieler am Geruch, wenn du dies nicht schaffst, $sip.",
+        "$PlayerA laufe einen Modell Catwalk, wenn du dies nicht machst $sip.",
+        "$PlayerA zeige dein zuletzt geschossenes Bild auf deinem Handy, wenn du dies nicht machst $sip.",
+        "$PlayerA ließ deine letzte SMS Nachricht vor, wenn du dies nicht machst $sip.",
+        "$PlayerA ließ deine letzt WhatsApp Nachricht vor, wenn du dies nicht machst $sip.",
+        "$PlayerA snappe deinem besten Snapchat Freund ein Gruppenbild, wenn du dies nicht machst $sip.",
+        "$PlayerA gib $PlayerB einen Kuss auf die Wange, wenn nicht, dann $sip.",
+        "$PlayerA wähle eine Person, die dir einen Kuss auf den Mund geben muss, wenn du oder die andere Person nicht möchte, trinke entweder selbst oder die Person $sip.",
+        "$PlayerA mache 10 Ligestütze oder $sip.",
+        "$PlayerA trinke dein Getränk leer.",
+        "$PlayerA wähle eine Person, die ihr Glas leer trinken muss."
+    ]
+}
